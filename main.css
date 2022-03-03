@@ -16,7 +16,6 @@
   
   nav ul {
     list-style-type: none;
-    border-top: 6px solid #e6af2e;
     background-color: #191716;
   }
   
@@ -324,7 +323,7 @@
   
   #projects {
     padding: 20px 0 80px 0;
-    background-color: #759428;
+    background-color: #2f2894;
   }
   
   .projects-container {
@@ -459,7 +458,7 @@
   /*posts*/
   
   #posts {
-    background: #759428;
+    background: #2f2894;
     padding: 20px 0 80px 0;
   }
   
